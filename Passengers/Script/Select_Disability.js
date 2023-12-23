@@ -1,3 +1,3 @@
 function Button(){
-    window.location.assign()
+    window.location.assign("Distenation.html")
 }

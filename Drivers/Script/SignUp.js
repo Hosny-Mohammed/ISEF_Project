@@ -1,6 +1,3 @@
-function Driver(){
-    window.location.assign("")
-}
-function Passenger(){
-    window.location.assign("Select_Disability.html")
+function Back_btn(){
+    window.location.assign("index.html")
 }

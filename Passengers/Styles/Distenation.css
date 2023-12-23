@@ -5,10 +5,27 @@ body {
 #Logo{
     color: rgba(233, 227, 227, 1);
     font-size: 7vw;
-    margin-top: 10vw;
-    margin-left:35%;
+    margin-top: 12vw;
+    margin-left:21%;
 }
-div{
+.TextBox{
+    display: flex;
+    height: 10vw;
+    width: 65vw;
+    margin-left: 15vw;
+    margin-top: 5vw;
+    border: 1px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 6vw;
+}
+#map{
+    margin-top: 6vw;
+    border: 2px solid;
+    height:60vw;
+    border-radius: 20px;
+}
+#drivers{
     border: 2px solid;
     border-radius: 20px;
     width: 80vw;
@@ -16,6 +33,7 @@ div{
     margin-left:.25vw;
    align-items: center;
    padding-right: 15vw;
+   margin-top:7vw;
 }
 ul{
     list-style-type: none;
@@ -48,12 +66,12 @@ li img{
 }
 .btn{
     position: absolute;
-    margin-left:33vw ;
+    margin-left:35vw ;
     margin-top: 10px;
     color: white;
     border: 1px;
     border-radius: 20px;
     cursor: pointer;
-    font-size: 4vw;
+    font-size: 5vw;
     background-color: rgba(74, 144, 226, 1);
 }
