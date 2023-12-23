@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(52, 48, 48, 1);
+}
+#Logo{
+    color: rgba(233, 227, 227, 1);
+    font-size: 6vw;
+    margin-top: 25vw;
+    margin-left:18%;
+}
+p{
+    margin-top: 20vw;
+    color: white;
+    font-size: 5vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.buttons{
+    display: block;
+    background-color: rgba(74, 144, 226, 1);
+    width: 60vw;
+    height: 12vw;
+    color: white;
+    font-size: 6vw;
+    border: 1px;
+    border-radius: 20px;
+    cursor: pointer;
+    display: block;
+    font-size: 5vw;
+}
+#From_btn{
+    margin-top:20vw;
+    margin-left: 18vw;
+}
+#Back_btn{
+    margin-left: 18vw;
+    margin-top:20vw;
+}
