@@ -22,7 +22,10 @@ body {
 #map{
     margin-top: 6vw;
     border: 2px solid;
-    height:60vw;
+    height:120vw;
+    width: 92vw;
+    padding-left: 3vw;
+    padding-top: 2vw;
     border-radius: 20px;
 }
 #drivers{
