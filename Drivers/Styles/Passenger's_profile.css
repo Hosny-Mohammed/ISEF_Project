@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(52, 48, 48, 1);
+}
+#Logo{
+    color: rgba(233, 227, 227, 1);
+    font-size: 7vw;
+    margin-top: 20vw;
+    margin-left:39%;
+}
+img{
+    margin-left: 22vw;
+    border-radius: 215vw;
+}
+#Info{
+    border: 1px solid;
+    border-radius: 10vw;
+    padding-left: 10vw;
+    margin-top: 5vw;
+}
+.pragraph{
+    color: white;
+}
